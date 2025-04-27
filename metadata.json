@@ -1,0 +1,7 @@
+{
+  "shell-version": ["43"],
+  "uuid": "htbi@ams.f5.si",
+  "name": "Hide Clock and Activity and App menu",
+  "description": "Hides the standard clock, activity button, and app menu.",
+  "url": "http://github.com/linux-jam/htbi"
+}
